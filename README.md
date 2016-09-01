@@ -19,3 +19,6 @@ java com/calle/TestNative
 http://www.ibm.com/developerworks/java/tutorials/j-jni/j-jni.html
 
 http://www.codeproject.com/Articles/993067/Calling-Java-from-Cplusplus-with-JNI
+
+JNI Callback:
+http://ticktick.blog.51cto.com/823160/1358558
